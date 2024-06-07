@@ -41,5 +41,5 @@ function login(event) {
         } else {
             alert('Login failed: ' + data.message);
         }
-    });
+    }); 
 }
